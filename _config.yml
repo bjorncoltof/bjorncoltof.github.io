@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Explore
+tagline:          'Adventures in Code'
+description:      'Just some guy slinging code'
+url:              https://github.com/bjorncoltof/bjorncoltof.github.io
+baseurl:          /
+
+author:
+  name:           'Bjorn Coltof'
+  url:            https://twitter.com/bjorn_coltof
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/bjorncoltof/bjorncoltof.github.io
