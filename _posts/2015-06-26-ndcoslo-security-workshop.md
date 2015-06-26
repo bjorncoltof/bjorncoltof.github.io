@@ -17,7 +17,7 @@ Troy Hunt is a well known security expert and also a [Pluralsight][PS] author.  
 - **Account Enumeration**: Expose who your systems users are. Could not be a issue at all, but if your [adultfriendfinder.com](http://adultfriendfinder.com "AdultFriendFinder") it might be a bigger issue.
 - **HTTP vs. HTTPS**: HTTP is very vulnerable to Man In The Middle (MITM) attacks. That's why Chrome will soon start marking pages served over HTTP as unsafe. Using his [Pineapple](https://www.wifipineapple.com/ "Pineapple") Troy easily launched a MITM attack on a number of devices that automatically connected to the local WiFi. 
 - **Cookies**: Plain, HttpOnly and Secure
-- **FiddlerScript**: [Fiddler](www.telerik.com/fiddler "Fiddler") is great tool to monitor and change traffic between systems. [FiddlerScript](http://docs.telerik.com/fiddler/KnowledgeBase/FiddlerScript/ModifyRequestOrResponse "FiddlerScript") amongst others allows you to script traffic as it is flowing through the system.
+- **FiddlerScript**: [Fiddler](http://www.telerik.com/fiddler "Fiddler") is great tool to monitor and change traffic between systems. [FiddlerScript](http://docs.telerik.com/fiddler/KnowledgeBase/FiddlerScript/ModifyRequestOrResponse "FiddlerScript") amongst others allows you to script traffic as it is flowing through the system.
 - **Automating**: Doing this by hand is tedious and most importantly slow, so of course automated tools have been created. E.g. we used sqlmap to expose some SQL injection vulnerabilities in the [Hack Yourself First][HYFS] site.
 
 ##Courses
